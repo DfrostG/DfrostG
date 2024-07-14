@@ -8,6 +8,10 @@ I am studying computer engineering at King Mongkut's Institute of Technology Lad
 
 * 🌍  I'm based in Bangkok, Thailand
 
+
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhpcGV0bHZ3ZXM3dnkyZXByeGYxamExc2d4ZTJpNHdiN3AxdGxnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yL9wlldvjwICc/giphy.gif" alt="pikachu crying" width="500" height="600">
+
+
 ### Skills
 
 
@@ -28,4 +32,3 @@ I am studying computer engineering at King Mongkut's Institute of Technology Lad
 
 <a href="https://github.com/DfrostG" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DfrostG&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhpcGV0bHZ3ZXM3dnkyZXByeGYxamExc2d4ZTJpNHdiN3AxdGxnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yL9wlldvjwICc/giphy.gif" alt="pikachu crying" width="500" height="600">
