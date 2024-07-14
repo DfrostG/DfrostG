@@ -9,7 +9,7 @@ I am studying computer engineering at King Mongkut's Institute of Technology Lad
 * 🌍  I'm based in Bangkok, Thailand
 
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhpcGV0bHZ3ZXM3dnkyZXByeGYxamExc2d4ZTJpNHdiN3AxdGxnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yL9wlldvjwICc/giphy.gif" alt="pikachu crying" width="500" height="600">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhpcGV0bHZ3ZXM3dnkyZXByeGYxamExc2d4ZTJpNHdiN3AxdGxnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yL9wlldvjwICc/giphy.gif" alt="pikachu crying" width="600" height="500">
 
 
 ### Skills
