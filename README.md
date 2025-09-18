@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Paramate Jiembanjong
+[[Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Paramate Jiembanjong
 ============================================================================================================================================
 
 Computer Engineering Student
@@ -32,3 +32,4 @@ I am studying computer engineering at King Mongkut's Institute of Technology Lad
 
 <a href="https://github.com/DfrostG" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DfrostG&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
